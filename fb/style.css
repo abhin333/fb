@@ -1,0 +1,46 @@
+button{
+
+    background-color: blue;
+    color: cornsilk;
+
+}
+#para1
+{
+color: crimson;
+}
+#para2
+{
+    color: darkcyan;
+}
+.content{
+    color: darkgreen;
+    background-color: darkmagenta;
+}
+.outer-box{
+    border:5px solid;
+    border-color: blue;
+    background: darkred;
+    color: brown;
+    height: 266px;
+    width: 280px; 
+}
+.box{
+    margin: 54px;
+    padding-left: 85px;
+    
+}
+.inner-div{
+    margin: 17px;
+    background: aqua;
+    width: 140px;
+    height: 182px;
+    
+}
+
+.inside{
+margin:38px;
+background: rgb(11, 245, 23);
+width: 100px;
+height:70px;
+
+}
